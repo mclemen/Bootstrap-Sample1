@@ -1,0 +1,172 @@
+html {
+    position: relative;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    font-weight: 700;
+}
+
+.bg-light {
+    background-color: transparent !important;
+}
+
+.header-jumbotron {
+    background-image: url("../../img/banner-background.png");
+    background-size: cover;
+    padding: 200px 0 200px 0;
+    text-align: center;
+    margin-top: -170px;
+}
+
+.htop {
+    color: #fff;
+    font-family: 'Rubik', sans-serif;
+    font-size: 60px;
+    margin-bottom: 50px;
+}
+
+.header-message {
+    color: #fff;
+    font-size: 30px;
+}
+
+.header-message2 {
+    color: #fff;
+    font-size: 30px;
+    margin-top: -20px;
+    margin-bottom: 70px;
+}
+
+.signup-button{
+    font-weight: 500;
+    font-size: 20px;
+    width: 150px;
+}
+
+.jumbotron {
+    background-color: #222;
+    border-radius: 0;
+    padding: 30px 0 30px 0;
+}
+
+.sponsor-icons {
+    color: #555;
+}
+
+.hiw {
+    text-align: center;
+    font-weight: 200;
+    font-size: 60px;
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.coltext3 {
+    text-align: center;
+    margin-bottom: 100px;
+    font-family: 'Satisfy', cursive;
+}
+
+.hiwh1 {
+    font-size: 60px;
+}
+
+.hiwp {
+    font-size: 25px;
+}
+
+.hiwp2 {
+    font-size: 20px;
+}
+
+.submit-newsletter {
+    width: 150px;
+    border-radius: 30px;
+    margin-top: 30px;
+}
+
+.mobilesection {
+    background-color: #f2f2f2;
+    padding: 120px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.clickmore {
+    margin-top: 10px;
+    font-size: 18px;
+    border-radius: 20px;
+    width: 40%;
+}
+
+.mediacontainer {
+    padding: 120px;
+}
+
+.mediah1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 60px;
+    font-weight: 300;
+}
+
+.media-body {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.parallax {
+    background:linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)),rgba(0,0,0,0.55) url('../../img/topdesk.jpg') no-repeat center;
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0 100px 0;
+}
+
+.form-newsletter {
+    text-align: center;
+    color: #fff;
+}
+
+.newsletter-input {
+    width: 60%;
+    border-radius: 30px;
+    border-color: rgba(255, 255, 255, 0.5);
+    text-align: center;
+    margin:0 auto;
+}
+
+.colfooter {
+    text-align: justify;
+}
+
+.socialfooter .fa-2x {
+    margin-left: 25px;
+}
+
+.footer {
+    position:relative;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    background-color: #222;
+}
+
+.footercopy {
+    color: #fff !important;
+    text-decoration: none;
+}
+
+.footerwidgets{
+    background-color: #444;
+    color: #fff;
+    padding: 50px;
+    margin-top: -40px;
+}
+
+.footerrow{
+    text-align: center;
+}
